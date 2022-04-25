@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+requests
+scikit-learn
+tensorflow-cpu
+gunicorn
